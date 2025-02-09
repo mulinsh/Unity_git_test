@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c05733194851a4f875a1d51ac26136, type: 3}
+  m_Name: ExpertCodeConfig
+  m_EditorClassIdentifier: 
+  NameSpace: YukiFrameWork.Example
+  FoldPath: Assets/Scripts
+  Name: test
+  ParentType: 0
+  levelInterface: 0
+  customInterface: 0
+  IsScruct: 0
+  architecture: 
+  IsOpenExpertCode: 0
+  FoldExport: 0
+  soFileName: 
+  soMenuName: 
+  AssembliesContasts:
+  - mscorlib
+  - UnityEngine
+  - UnityEngine.AIModule
+  - UnityEngine.ARModule
+  - UnityEngine.AccessibilityModule
+  - UnityEngine.AndroidJNIModule
+  - UnityEngine.AnimationModule
+  - UnityEngine.AssetBundleModule
+  - UnityEngine.AudioModule
+  - UnityEngine.AutoStreamingModule
+  - UnityEngine.ClothModule
+  - UnityEngine.CloudFoundationModule
+  - UnityEngine.ClusterInputModule
+  - UnityEngine.ClusterRendererModule
+  - UnityEngine.CoreModule
+  - UnityEngine.CrashReportingModule
+  - UnityEngine.DSPGraphModule
+  - UnityEngine.DirectorModule
+  - UnityEngine.GIModule
+  - UnityEngine.GameCenterModule
+  - UnityEngine.GridModule
+  - UnityEngine.HotReloadModule
+  - UnityEngine.IMGUIModule
+  - UnityEngine.ImageConversionModule
+  - UnityEngine.InputModule
+  - UnityEngine.InputLegacyModule
+  - UnityEngine.JSONSerializeModule
+  - UnityEngine.LocalizationModule
+  - UnityEngine.ParticleSystemModule
+  - UnityEngine.PerformanceReportingModule
+  - UnityEngine.PhysicsModule
+  - UnityEngine.Physics2DModule
+  - UnityEngine.ProfilerModule
+  - UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule
+  - UnityEngine.ScreenCaptureModule
+  - UnityEngine.SharedInternalsModule
+  - UnityEngine.SpriteMaskModule
+  - UnityEngine.SpriteShapeModule
+  - UnityEngine.StreamingModule
+  - UnityEngine.SubstanceModule
+  - UnityEngine.SubsystemsModule
+  - UnityEngine.TLSModule
+  - UnityEngine.TerrainModule
+  - UnityEngine.TerrainPhysicsModule
+  - UnityEngine.TextCoreModule
+  - UnityEngine.TextRenderingModule
+  - UnityEngine.TilemapModule
+  - UnityEngine.UIModule
+  - UnityEngine.UIElementsModule
+  - UnityEngine.UIElementsNativeModule
+  - UnityEngine.UIWidgetsModule
+  - UnityEngine.UNETModule
+  - UnityEngine.UmbraModule
+  - UnityEngine.UnityAnalyticsModule
+  - UnityEngine.UnityAnalyticsCommonModule
+  - UnityEngine.UnityConnectModule
+  - UnityEngine.UnityCurlModule
+  - UnityEngine.UnityTestProtocolModule
+  - UnityEngine.UnityWebRequestModule
+  - UnityEngine.UnityWebRequestAssetBundleModule
+  - UnityEngine.UnityWebRequestAudioModule
+  - UnityEngine.UnityWebRequestTextureModule
+  - UnityEngine.UnityWebRequestWWWModule
+  - UnityEngine.VFXModule
+  - UnityEngine.VRModule
+  - UnityEngine.VehiclesModule
+  - UnityEngine.VideoModule
+  - UnityEngine.VirtualTexturingModule
+  - UnityEngine.WindModule
+  - UnityEngine.XRModule
+  - UnityEngine.TestRunner
+  - UnityEngine.UI
+  TypeContasts: []
+  fieldDatas: []
+  methodDatas: []
