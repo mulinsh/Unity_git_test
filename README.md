@@ -31,4 +31,4 @@
    ```bash
    https://github.com/mulinsh/Unity_git_test.git
 
-傻逼，如果你在成功clone没有会骂我，说明你还是没有配置好markdown,那你是真傻逼了
+傻逼ywh
